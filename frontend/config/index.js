@@ -47,7 +47,6 @@ module.exports = {
     // Template for index.html
     api: path.resolve(__dirname, '../dist/api.html'),
     dict: path.resolve(__dirname, '../dist/dict.html'),
-
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',

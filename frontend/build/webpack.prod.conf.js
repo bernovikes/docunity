@@ -65,9 +65,10 @@ const webpackConfig = merge(baseWebpackConfig, {
     new HtmlWebpackPlugin({
       filename: process.env.NODE_ENV === 'testing'
         ? 'api.html'
-        : config.build.index,
+        : config.build.api,
       template: 'api.html',
       inject: true,
+      chunks: ['manifest', 'vendor', 'api'],
       minify: {
         removeComments: true,
         collapseWhitespace: true,
@@ -81,8 +82,9 @@ const webpackConfig = merge(baseWebpackConfig, {
     new HtmlWebpackPlugin({
       filename: process.env.NODE_ENV === 'testing'
         ? 'dict.html'
-        : config.build.index,
+        : config.build.dict,
       template: 'dict.html',
+      chunks: ['manifest', 'vendor', 'dict'],
       inject: true,
       minify: {
         removeComments: true,
