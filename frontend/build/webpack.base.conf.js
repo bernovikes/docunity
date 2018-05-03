@@ -23,7 +23,7 @@ module.exports = {
   context: path.resolve(__dirname, '../'),
   entry: {
     api: './src/modules/apidoc/api.js',
-    dict: './src/modules/dictionary/dict.js'
+    // dict: './src/modules/dictionary/dict.js'
   },
   output: {
     path: config.build.assetsRoot,

@@ -1,12 +1,19 @@
 <template>
   <div id="api">
-    <router-view/>
+    <el-container class="h-100">
+        <!--<bar></bar>-->
+        <router-view/>
+    </el-container>
   </div>
 </template>
 
 <script>
+import bar from '../../components/common/aside'
 export default {
-  name: 'Api'
+  name: 'Api',
+  components: {
+    bar
+  }
 }
 </script>
 <style lang="scss">

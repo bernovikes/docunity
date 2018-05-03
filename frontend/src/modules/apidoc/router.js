@@ -2,6 +2,8 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import apiList from './components/mock/apiList'
 import login from './components/user/login'
+import setting from './components/user/setting'
+import createdMock from './components/mock/createdMock'
 
 Vue.use(Router)
 
@@ -13,9 +15,19 @@ export default new Router({
       component: apiList
     },
     {
-      path: '/usr/login',
+      path: '/user/login',
       name: 'login',
       component: login
+    },
+    {
+      path: '/user/setting',
+      name: 'setting',
+      component: setting
+    },
+    {
+      path: '/mock/create',
+      name: 'createdMock',
+      component: createdMock
     }
   ]
 })
