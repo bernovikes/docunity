@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a02f3c0-c596-494d-868a-ee6c5e0ff88e" name="Default" comment="添加登录页">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/common/aside.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/javascript.snippets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/mock.snippets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/user/setting.vue" afterDir="false" />
+    <list default="true" id="7a02f3c0-c596-494d-868a-ee6c5e0ff88e" name="Default" comment="初始化代码编辑器">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/Api.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/Api.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/user/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/user/login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,17 +20,8 @@
       <file leaf-file-name="createdMock.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tachyons.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/assets/scss/tachyons.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="1539" column="4" selection-start-line="1539" selection-start-column="1" selection-end-line="1539" selection-end-column="4" />
+            <state relative-caret-position="171">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -162,69 +140,6 @@
               <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
               <item name="docunity" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="apidoc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="apidoc" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="apidoc" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="docunity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="docunity" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="apidoc" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="mock" type="462c0819:PsiDirectoryNode" />
-              <item name="snippets" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -236,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../easy-mock" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitflow" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -377,7 +292,9 @@
       <workItem from="1525242155091" duration="14000" />
       <workItem from="1525326437546" duration="2160000" />
       <workItem from="1525331780881" duration="36000" />
-      <workItem from="1525331901752" duration="7372000" />
+      <workItem from="1525331901752" duration="10864000" />
+      <workItem from="1525397477262" duration="1388000" />
+      <workItem from="1525427556299" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1522075811694</created>
@@ -421,11 +338,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524547988799</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="初始化代码编辑器">
+      <created>1525340442612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525340442612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42271000" />
+    <option name="totallyTimeSpent" value="48054000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,12 +371,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293556" />
-      <window_info id="npm" order="2" sideWeight="0.5364432" side_tool="true" weight="0.33306387" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38530466" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6505376" />
-      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
+      <window_info id="npm" order="2" sideWeight="0.5402504" side_tool="true" weight="0.3441034" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6493739" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46355686" visible="true" weight="0.33279485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.45974955" visible="true" weight="0.3441034" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -460,6 +383,7 @@
       <window_info id="Favorites" order="2" sideWeight="0.5322581" side_tool="true" weight="0.32174617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -471,12 +395,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.54474705" side_tool="true" weight="0.29643628" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38663486" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45525292" visible="true" weight="0.29643628" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293556" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293556" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -485,7 +409,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32816228" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293556" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Maven Projects" order="5" />
@@ -507,7 +431,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="修复webpack多入口" />
     <MESSAGE value="添加登录页" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加登录页" />
+    <MESSAGE value="初始化代码编辑器" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化代码编辑器" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -762,23 +687,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/brace/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-999">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/brace/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
     <entry file="file://$PROJECT_DIR$/frontend/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-570">
@@ -790,9 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,15 +764,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/assets/scss/tachyons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="19">
           <caret line="1539" column="4" selection-start-line="1539" selection-start-column="1" selection-end-line="1539" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="49" column="36" lean-forward="true" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        <state relative-caret-position="171">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
