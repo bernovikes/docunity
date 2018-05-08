@@ -4,6 +4,7 @@ import apiList from './components/mock/apiList'
 import login from './components/user/login'
 import setting from './components/user/setting'
 import createdMock from './components/mock/createdMock'
+import RequestView from './components/mock/requestView'
 
 Vue.use(Router)
 
@@ -28,6 +29,11 @@ export default new Router({
       path: '/mock/create',
       name: 'createdMock',
       component: createdMock
+    },
+    {
+      path: '/request/view',
+      name: 'RequestView',
+      component: RequestView
     }
   ]
 })
