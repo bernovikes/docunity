@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a02f3c0-c596-494d-868a-ee6c5e0ff88e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/app/controllers/user.js" afterDir="false" />
+    <list default="true" id="7a02f3c0-c596-494d-868a-ee6c5e0ff88e" name="Default" comment="eslint">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/common/aside.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/common/aside.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,26 +37,49 @@
       <file leaf-file-name="requestView.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="209">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createdMock.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aside.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/common/aside.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apiList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="304">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/app/controllers/user.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -130,20 +154,20 @@
         <option value="$PROJECT_DIR$/frontend/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/user/setting.vue" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/api.js" />
-        <option value="$PROJECT_DIR$/frontend/src/components/common/aside.vue" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/Api.vue" />
-        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/javascript.snippets" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/mock.snippets" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/a/index.js" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/mock.snippets" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/javascript.snippets" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/snippets/index.js" />
-        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/request_view.vue" />
         <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/router.js" />
-        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue" />
         <option value="$PROJECT_DIR$/backend/app/controllers/user.js" />
+        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/components/common/aside.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue" />
       </list>
     </option>
   </component>
@@ -185,8 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,14 +238,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitflow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../easy-mock" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -375,6 +400,9 @@
       <workItem from="1525703487197" duration="554000" />
       <workItem from="1525764544139" duration="56000" />
       <workItem from="1525766778212" duration="1235000" />
+      <workItem from="1525768494515" duration="2071000" />
+      <workItem from="1525770761897" duration="4814000" />
+      <workItem from="1525830980076" duration="3250000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1522075811694</created>
@@ -436,7 +464,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56126000" />
+    <option name="totallyTimeSpent" value="66261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,30 +479,30 @@
     <frame x="-8" y="-8" width="1296" height="696" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293556" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3291592" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3846154" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293556" />
-      <window_info id="npm" order="2" sideWeight="0.5494186" side_tool="true" weight="0.39256865" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38316151" />
+      <window_info id="npm" order="2" sideWeight="0.55153203" side_tool="true" weight="0.31903276" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.6493739" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4505814" visible="true" weight="0.319063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.44846797" visible="true" weight="0.31903276" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.5322581" side_tool="true" weight="0.32174617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
@@ -519,7 +547,8 @@
     <MESSAGE value="修复webpack多入口" />
     <MESSAGE value="添加登录页" />
     <MESSAGE value="初始化代码编辑器" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化代码编辑器" />
+    <MESSAGE value="eslint" />
+    <option name="LAST_COMMIT_MESSAGE" value="eslint" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -542,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,20 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/components/common/aside.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/Api.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -791,13 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -809,9 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="33" column="26" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -843,24 +845,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/app/controllers/user.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/apiList.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/common/aside.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/requestView.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/modules/apidoc/components/mock/createdMock.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
         </state>
       </provider>
     </entry>

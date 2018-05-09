@@ -47,7 +47,7 @@
 
 <script>
 let ace
-import jsBeautify from 'js-beautify/js/lib/beautify'
+// import jsBeautify from 'js-beautify/js/lib/beautify'
 let store = {}
 store.codeEditor = null
 if (typeof window !== 'undefined') {
@@ -60,10 +60,10 @@ if (typeof window !== 'undefined') {
 }
 export default {
   name: 'createdMock',
-  data(){
+  data () {
     return store
   },
-  mounted() {
+  mounted () {
     var editor = ace.edit(this.$refs.codeEditor)
     editor.getSession().setMode('ace/mode/javascript')
     editor.setTheme('ace/theme/monokai')

@@ -71,9 +71,9 @@ for (let i = 0; i < 8; i++) {
 }
 export default {
   name: 'apiList',
-  data() {
+  data () {
     return {
-      list:list
+      list: list
     }
   }
 }

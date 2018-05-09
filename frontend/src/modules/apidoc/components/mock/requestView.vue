@@ -1,13 +1,12 @@
 <template>
   <el-main>
     <el-row>
-      
     </el-row>
   </el-main>
 </template>
 
 <script>
 export default {
-  name: "RequestView"
+  name: 'RequestView'
 }
 </script>
